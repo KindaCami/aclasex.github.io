@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aclasex.github.io/sitemap.xml
+
+# Bloquear archivos innecesarios
+Disallow: /assets/
